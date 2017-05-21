@@ -1,0 +1,13 @@
+html, body, .button-wrapper {
+    height: 96%;
+}
+
+.new-houseparty-btn {
+    height: 300px !important;
+    width: 300px !important;
+}
+
+.new-houseparty-btn i {
+    line-height: 300px !important;
+    font-size: 10.6rem;
+}
